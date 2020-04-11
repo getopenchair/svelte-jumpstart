@@ -1,0 +1,1 @@
+{"version":3,"file":"Landing-3831cb34.js","sources":["../../src/Landing.svelte"],"sourcesContent":["<script>\n  let text = \"Hello World!\";\n</script>\n\n<main>\n  <p>{text}</p>\n</main>\n"],"names":[],"mappings":";;;;;;;;;;;;;;;;+BAKM,GAAI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;KAJJ,IAAI,GAAG,cAAc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"}
